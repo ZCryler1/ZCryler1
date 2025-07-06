@@ -39,8 +39,16 @@ No momento, estou me aprofundando em:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-%23000000.svg?logo=netlify&logoColor=#00C7B7)
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?logo=google-cloud&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)
 
-(Usuário de [![Firefox](https://img.shields.io/badge/Firefox-FF7139?logo=Firefox&logoColor=white)]
+Usuário de 
+![Firefox](https://img.shields.io/badge/Firefox-FF7139?logo=Firefox&logoColor=white)
+![Perplexity](https://img.shields.io/badge/Perplexity-1FB8CD?logo=perplexity&logoColor=fff)
+![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)
+![Visual Studio](https://custom-icon-badges.demolab.com/badge/Visual%20Studio-5C2D91.svg?&logo=visualstudio&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000?logo=notion&logoColor=fff)
+![Udemy](https://img.shields.io/badge/Udemy-A435F0?logo=udemy&logoColor=fff)
+![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white)
 
 ---
 
