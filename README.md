@@ -65,8 +65,10 @@ Ideal para jogos interativos, ferramentas de streaming ou projetos criativos que
 ## 📈 Estatísticas GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ZCryler1&show_icons=true&theme=github_dark&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=ZCryler1&theme=github-dark&hide_border=true" width="48%" />
+  
+![Lorenzo's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZCryler1&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZCryler1&layout=compact&theme=tokyonight)
+
 </p>
 
 ---
