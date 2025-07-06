@@ -85,4 +85,4 @@ _Obrigado por visitar meu perfil! Sinta-se à vontade para explorar meus projeto
 
 ## 🐍 Snake Game dos meus commits
 
-![Snake animation](https://github.com/ZCryler1/ZCryler1/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/ZCryler1/ZCryler1/blob/main/github-contribution-grid-snake.svg)
