@@ -1,6 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=👋+Olá,+meu+nome+é+Lorenzo+Costa;❤️+Bem+vindo+ao+meu+perfil!)](https://git.io/typing-svg)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZCryler1&show_icons=true&theme=tokyonight)
 🎓 Estudante de Ciência da Computação | 💼 Estagiário em Administração Financeira – Compras  
 🎸 Apaixonado por tecnologia, música e aprendizado contínuo | 🎮 Desenvolvedor iniciante com foco em Web e Jogos
 💻 Entusiasta de Linux e automações
