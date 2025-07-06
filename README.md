@@ -1,4 +1,4 @@
-##👋 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Olá,+meu+nome+é+Lorenzo+Costa;Seja+bem-vindo+ao+meu+GitHub!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=👋+Olá,+meu+nome+é+Lorenzo+Costa;💻+Desenvolvedor+full+stack+em+formação)](https://git.io/typing-svg)
 
 🎓 Estudante de Ciência da Computação | 💼 Estagiário em Administração Financeira – Compras  
 🎸 Apaixonado por tecnologia, música e aprendizado contínuo | 🎮 Desenvolvedor iniciante com foco em Web e Jogos
