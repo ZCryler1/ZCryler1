@@ -20,7 +20,6 @@ No momento, estou me aprofundando em:
 - ⚙️ **Node.js, Express**  
 - 🐳 **Docker & DevOps básico**  
 - 🧠 **IA com LLMs (LM Studio, OpenWebUI, OpenRouterAPI)**  
-- 🧾 **Administração financeira e controle de compras**
 - 🐧 **Ambientes Linux e automações**
 - 🎮 **Desenvolvimento com Unity (C#)**
 - 🐍 **Python básico**
