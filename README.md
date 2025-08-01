@@ -15,9 +15,9 @@ Também estou aprendendo Python e expandindo meus conhecimentos em tecnologias b
 No momento, estou me aprofundando em:
 
 
-- 🖥️ **JavaScript / TypeScript (Full Stack)**  
-- 🎨 **React, Redux, TailwindCSS**  
-- ⚙️ **Node.js, Express**  
+- 🖥️ **JavaScript (Full Stack)**  
+- 🎨 **Redux, TailwindCSS**  
+- ⚙️ **Node.js, Express, Selene**  
 - 🐳 **Docker & DevOps básico**  
 - 🧠 **IA com LLMs (LM Studio, OpenWebUI, OpenRouterAPI)**  
 - 🐧 **Ambientes Linux e automações**
