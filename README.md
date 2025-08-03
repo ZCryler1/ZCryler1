@@ -88,7 +88,7 @@ Ideal para jogos interativos, ferramentas de streaming ou projetos criativos que
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/lorenzo-costa-prais/)
 - 📧 Email: lorenzoprais367@gmail.com
-- 🌐 [Portfólio (em construção)]
+- 🌐 [Portfólio](http://servidordolorenzocosta.playit.pub:29653/portfolio)
 
 ---
 
