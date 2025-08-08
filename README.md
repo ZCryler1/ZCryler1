@@ -59,13 +59,13 @@ Usuário de
 - 📚 **Integração Calibre + Anna’s Archive**  
   Automatização de downloads de livros EPUB direto para a biblioteca pessoal.
 
-- 🎮 **[Spelling Bee Game]** (https://digitacaoauditiva.netlify.app/)
+- 🎮 **[Spelling Bee Game](https://digitacaoauditiva.netlify.app/)** 
   Jogo educativo com Node.js + Express + MySQL.
   
 - 💊 **[MediTrack]** - Repositorio privado por enquanto
   O MedAssist é um aplicativo que combina inteligência artificial e tecnologia de rastreamento para gerenciar seus medicamentos.
 
-- 🎥 **YouTube Chat API for Unity**(https://github.com/ZCryler1/Youtube-Chat-API-for-Unity)
+- 🎥 **[YouTube Chat API for Unity](https://github.com/ZCryler1/Youtube-Chat-API-for-Unity)**
 
 Uma integração simples e prática para receber mensagens de chat ao vivo do YouTube dentro de projetos feitos em Unity.  
 Ideal para jogos interativos, ferramentas de streaming ou projetos criativos que usam APIs em tempo real.
