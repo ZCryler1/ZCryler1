@@ -65,7 +65,7 @@ Usuário de
 - 💊 **[MediTrack]** - Repositorio privado por enquanto
   O MedAssist é um aplicativo que combina inteligência artificial e tecnologia de rastreamento para gerenciar seus medicamentos.
 
-- 🎥 **[YouTube Chat API for Unity]**(https://github.com/ZCryler1/Youtube-Chat-API-for-Unity)
+- 🎥 **YouTube Chat API for Unity**(https://github.com/ZCryler1/Youtube-Chat-API-for-Unity)
 
 Uma integração simples e prática para receber mensagens de chat ao vivo do YouTube dentro de projetos feitos em Unity.  
 Ideal para jogos interativos, ferramentas de streaming ou projetos criativos que usam APIs em tempo real.
