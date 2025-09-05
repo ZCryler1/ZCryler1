@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=👋+Olá,+meu+nome+é+Lorenzo+Costa;❤️+Bem+vindo+ao+meu+perfil!)](https://git.io/typing-svg)
 
-🎓 Estudante de Ciência da Computação | 💼 Estagiário em Administração Financeira – Compras  
+🎓 Estudante de Ciência da Computação | 💼 Assistende de Desenvolvimento de Sistemas - Sicredi Planalto
 🎸 Apaixonado por tecnologia, música e aprendizado contínuo | 🎮 Desenvolvedor iniciante com foco em Web e Jogos
 💻 Entusiasta de Linux e automações
 
